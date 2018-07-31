@@ -8,6 +8,9 @@
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-encourage",
+  "hubot-help-private"
+
 ]
 "hubot-azure-scripts/brain/storage-blob-brain"
