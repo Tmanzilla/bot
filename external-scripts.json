@@ -10,7 +10,7 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-encourage",
-  "hubot-help-private"
-
+  "hubot-help-private",
+  "hubot-azure"
 ]
 "hubot-azure-scripts/brain/storage-blob-brain"
